@@ -1,0 +1,11 @@
+id = "ssh-config"
+name = "SSH Config"
+version = "0.1.0"
+schema_version = 1
+authors = ["Pranav Mangal <pranav.mangal.7@gmail.com>"]
+description = "Provides syntax highlighting for SSH config files"
+repository = "https://github.com/pranavmangal/zed-ssh-config"
+
+[grammars.ssh_config]
+repository = "https://github.com/tree-sitter-grammars/tree-sitter-ssh-config"
+commit = "0dd3c7e9f301758f6c69a6efde43d3048deb4d8a"

@@ -1,0 +1,4 @@
+name = "SSH Config"
+grammar = "ssh_config"
+path_suffixes = ["config", "ssh_config"]
+line_comments = ["# "]
