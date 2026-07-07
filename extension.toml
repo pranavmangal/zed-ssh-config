@@ -8,4 +8,4 @@ repository = "https://github.com/pranavmangal/zed-ssh-config"
 
 [grammars.ssh_config]
 repository = "https://github.com/tree-sitter-grammars/tree-sitter-ssh-config"
-commit = "71d2693deadaca8cdc09e38ba41d2f6042da1616"
+commit = "f6c74373625f6150b1bd33fa2bec2b52808cc5a2"
